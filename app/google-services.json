@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517854387435",
+    "project_id": "signuppage-ea22a",
+    "storage_bucket": "signuppage-ea22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517854387435:android:5ee55928ae3584d6edf2ae",
+        "android_client_info": {
+          "package_name": "com.example.signuppage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3mkYmxNLT1Y-2tXmCmQ734aQ9OXRJPE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
